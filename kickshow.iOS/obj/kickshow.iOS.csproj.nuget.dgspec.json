@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshow.iOS\\kickshow.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshow.iOS\\kickshow.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshow.iOS\\kickshow.iOS.csproj",
+        "projectName": "kickshow.iOS",
+        "projectPath": "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshow.iOS\\kickshow.iOS.csproj",
+        "packagesPath": "C:\\Users\\pablo.juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshow.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pablo.juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.1141, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
