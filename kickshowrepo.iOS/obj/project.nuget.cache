@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRIBR48XF8tt5p6MF/MZ7+JTL+Hg/NJnCStbgHRd/tR/ddIm1WkxeHooEgQg9sO0LhwzB0K/HlvNOvNI5i7noQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo.juan\\Documents\\_ GIT\\kickshowrepo\\kickshowrepo.iOS\\kickshowrepo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

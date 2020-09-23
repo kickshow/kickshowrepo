@@ -1,0 +1,14 @@
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\bin\Debug\netstandard2.0\kickshowrepo.deps.json
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\bin\Debug\netstandard2.0\kickshowrepo.dll
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\bin\Debug\netstandard2.0\ref\kickshowrepo.dll
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\bin\Debug\netstandard2.0\kickshowrepo.pdb
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.csprojAssemblyReference.cache
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.AssemblyInfoInputs.cache
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.AssemblyInfo.cs
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.csproj.CoreCompileInputs.cache
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.dll
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\ref\kickshowrepo.dll
+C:\Users\pablo.juan\Documents\_ GIT\kickshowrepo\kickshowrepo\obj\Debug\netstandard2.0\kickshowrepo.pdb
